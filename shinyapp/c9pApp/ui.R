@@ -24,7 +24,7 @@ shinyUI(fluidPage(
                  tags$p("Ozone plots against Solar.R, Wind and Temp in each tab.
                         Plot data is based on chosen month. You can also show or
                         hide a linear model line to each plot."),
-                 tags$a(href="shiny.rstudio.com/tutorial", "Source Code on Github.")
+                 tags$a(href="https://github.com/fengliplatform/course9/tree/master/shinyapp/c9pApp", "Source Code on Github.")
         ),
 
         h3("Choose Month"),
